@@ -1,8 +1,8 @@
 # Manual de Usuario – Programa X  
 
 ## Sección 1: Instalacion  
-Para instalar el programa, el usuario deben descargar el archivo desde la pagina web oficial. Despues de la descarga, solo tiene que abrir el archivo y seguir los paso que le indica el asistente de instalacion.  
-Es importante que el usuario verificar que cumple con los requisito del sistema antes de iniciar la instalacion, de lo contrario pueden ocurrir errores inesperados.  
+Para instalar el programa, el usuario debe descargar el archivo desde la página web oficial. Después de la descarga, solo tiene que abrir el archivo y seguir los pasos que le indica el asistente de instalación.
+Es importante que el usuario verifique que cumple con los requisitos del sistema antes de iniciar la instalación; de lo contrario, podrían ocurrir errores inesperados.
 
 ---
 
@@ -21,3 +21,4 @@ Muchas veces los usuarios confunden el boton de guardar con el de exportar, es i
 ## Sección 4: Resolucion de problemas comunes  
 Si el programa no abre, lo primero es verificar que este correctamente instalado. Otro problema frecuente es que los archivo no cargan, en ese caso revisar la compatibilidad de version.  
 Cuando el programa se congela, intentar cerrarlo desde el administrador de tarea y reiniciar el sistema. Si el error continua, contactar con el soporte tecnico del desarrollador.  
+
