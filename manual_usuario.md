@@ -13,13 +13,14 @@ Además, algunas funcionalidades requieren una conexión a internet estable, aun
 ---
 
 ## Sección 3: Uso basico  
-Al iniciar el programa, el usuario vera un menu principal con varias opcione. Para abrir un archivo, solo tienes que ir a “Archivo > abrir” y seleccionar el documento.  
-Muchas veces los usuarios confunden el boton de guardar con el de exportar, es importante notar que guardar mantiene el formato interno mientras exportar genera un formato diferente.  
+Al iniciar el programa, el usuario verá un menú principal con varias opciones. Para abrir un archivo, el usuario solo tiene que ir a “Archivo > Abrir” y seleccionar el documento.
+A menudo, los usuarios confunden el botón de guardar con el de exportar. Es importante notar que “Guardar” mantiene el formato interno, mientras que “Exportar” genera un formato diferente. 
 
 ---
 
 ## Sección 4: Resolucion de problemas comunes  
 Si el programa no abre, lo primero es verificar que este correctamente instalado. Otro problema frecuente es que los archivo no cargan, en ese caso revisar la compatibilidad de version.  
 Cuando el programa se congela, intentar cerrarlo desde el administrador de tarea y reiniciar el sistema. Si el error continua, contactar con el soporte tecnico del desarrollador.  
+
 
 
